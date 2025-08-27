@@ -13,6 +13,8 @@ Este repositorio contiene el desarrollo del **Trabajo Práctico N° 1** de la ma
 - Gabriel Martínez  
 - Francisco Valentin Ferreira Veiga 
 - Bautista Marin Aguilar
+- Ignacio Benjamin Zeballos
+- Camila Kranewitter
 
 ---
 
